@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.315597fdc7b1ab071360fba233aa3dd9.SHINTA" tvg-name"MNC _VIDIO" group-title="LOCAL",[CODAY] MNC _VIDIO
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sZw2i9ccZgdDgKzXwiuuvs2gfFs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/5fd39e.png" tvg-id="RIYAN.315597fdc7b1ab071360fba233aa3dd9.SHINTA" tvg-name"MNC _VIDIO" group-title="LOCAL",MNC _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.c537cbe991414787df59603facea7933.SHINTA" tvg-name"RCTI _VIDIO" group-title="LOCAL",[CODAY] RCTI _VIDIO
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5T4suHL5M2n18gyQMydjTkQTZ60=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/3f534c.png" tvg-id="RIYAN.c537cbe991414787df59603facea7933.SHINTA" tvg-name"RCTI _VIDIO" group-title="LOCAL",RCTI _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.421c19f5a733cdf8820059d1d4fcafae.SHINTA" tvg-name"GTV _VIDIO" group-title="LOCAL",[CODAY] GTV _VIDIO
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2mJ0CtnOfeAOqfycxiEswQUIuTU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/5c9984.png" tvg-id="RIYAN.421c19f5a733cdf8820059d1d4fcafae.SHINTA" tvg-name"GTV _VIDIO" group-title="LOCAL",GTV _VIDIO
 #EXTINF:-1 group-title="Lokal" tvg-logo="", NET TV
 https://tv.cpdev.us/Playlist/o/nettv.m3u8?t=e9c7dc30fed2bab2fd4b42d40c991ed0
 #EXTINF:-1 group-title="Lokal" tvg-logo="", NET TV (Backup)
